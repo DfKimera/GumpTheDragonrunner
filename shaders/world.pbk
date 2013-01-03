@@ -1,0 +1,60 @@
+<languageVersion: 1.0;>
+
+kernel worldCoordinates
+
+<   
+    namespace:          "worldCoordinates";
+    vendor:             "A3 Studios";
+    version:            1;
+    description:        "Distorts the edges of the image";
+>
+
+ {
+
+    parameter float center_x
+    <
+        minValue:float(-200.0);
+        maxValue:float(2048.0);
+        defaultValue:float(210.0);
+        description: "center point x";
+    >;
+    
+    parameter float center_y
+    <
+        minValue:float(-200.0);
+        maxValue:float(2048.0);
+        defaultValue:float(160.0);
+        description: "center point y";
+    >;  
+    
+     parameter float radius
+    <
+        minValue:float(0.1);
+        maxValue:float(400.0);
+        defaultValue:float(8);
+        description: "radius";
+    >;    
+    
+    input image4 src;
+    
+    output pixel4 pxl; 
+    
+    
+    
+    void
+    evaluatePixel() {   
+    
+        float2 center;
+        float2 pos = outCoord();
+        
+        center.x = center_x;
+        //center.y = center_y;
+        
+
+        pos.y = pos.y - ((abs(center.x - pos.x)) / radius);
+    
+        pxl = sampleLinear( src, center + pos );
+  
+    }    
+    
+}
