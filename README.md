@@ -1,31 +1,31 @@
 Gump: The Dragonrunner
+===================
 
-by A3 Studios <http://www.a3studios.com.br>
+###by A3 Studios <http://www.a3studios.com.br>
 
-You can play the game @ http://www.a3studios.com.br/games/gump
+
+You can play the game @ <http://www.a3studios.com.br/games/gump>
+
+Side-scroller 2D game, created in Flash/AS3 and produced under 48hs at the SPJAM 2012 game jam.
 
 ===================
 
-Game de aventura side-scroller 2D, em Flash/AS3, produzido em 48hs durante o SPJAM 2012 
+##Equipe:
 
-===================
-
-Equipe:
-
-Aryel 'DfKimera' Tupinambá
+####Aryel 'DfKimera' Tupinambá
 Lead Programmer, Animator, Team Leader
 
-Alexandre 'Leef'
+####Alexandre 'Leef' Campos
 Lead Music Composer, Concept Artist Game Designer
 
-Amanda Rigitano
+####Amanda Rigitano
 Lead Concept Artist, Sprite Designer
 
-Guilherme 'Degoi' Diomede
+####Guilherme 'Degoi' Diomede
 Lead Game Designer, Production Assistant, Beta-tester
 
-Marilia de Azevedo Correa
+####Marilia de Azevedo Correa
 Concept Artist, Sprite Designer
 
-Nuria 'Nuuvem' Pratginestós
+####Nuria 'Nuuvem' Pratginestós
 Concept Artist, Sprite Designer
