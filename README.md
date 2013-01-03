@@ -6,7 +6,7 @@ Gump: The Dragonrunner
 
 You can play the game @ <http://www.a3studios.com.br/games/gump>
 
-Side-scroller 2D game, created in Flash/AS3 and produced under 48hs at the SPJAM 2012 game jam.
+Side-scroller 2D game, created in Flash/AS3 and produced under 48hs at the SPJAM 2011 game jam.
 
 ===================
 
