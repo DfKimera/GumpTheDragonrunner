@@ -16,13 +16,13 @@ Side-scroller 2D game, created in Flash/AS3 and produced under 48hs at the SPJAM
 Lead Programmer, Animator, Team Leader
 
 ####Alexandre 'Leef' Campos
-Lead Music Composer, Concept Artist, Game Designer
+Lead Music Composer, Concept Artist, Lead Game Designer
 
 ####Amanda Rigitano
 Lead Concept Artist, Sprite Designer
 
 ####Guilherme 'Degoi' Diomede
-Lead Game Designer, Production Assistant, Beta-tester
+Game Designer, Production Assistant, Beta-tester
 
 ####Marilia de Azevedo Correa
 Concept Artist, Sprite Designer
